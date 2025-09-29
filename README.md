@@ -1,4 +1,4 @@
-check this file <h1 align="center">Hi 👋, I'm Adarsh Sugandhe</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Sugandhe</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -20,9 +20,8 @@ check this file <h1 align="center">Hi 👋, I'm Adarsh Sugandhe</h1>
 <div align="left">
   <!-- Frontend -->
   <h4>Frontend</h4>
-  <a href="https://reactjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="50" /> </a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px; filter: invert(1);" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="50" /> </a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="50" /> </a> 
@@ -30,7 +29,7 @@ check this file <h1 align="center">Hi 👋, I'm Adarsh Sugandhe</h1>
 
   <!-- Backend -->
   <h4>Backend</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  height="50"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50"/> </a>
 
   <!-- Databases -->
