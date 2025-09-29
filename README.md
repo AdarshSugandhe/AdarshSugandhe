@@ -47,9 +47,11 @@
   <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png" alt="Canva" height="50" /></a>
 
 </div>
+<div style="display: flex;">
+  
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsugandhe&show_icons=true&locale=en&layout=compact&theme=dark" alt="adarshsugandhe" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsugandhe&show_icons=true&locale=en&layout=compact&theme=dark" alt="adarshsugandhe" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=adarshsugandhe&show_icons=true&locale=en&theme=dark" alt="adarshsugandhe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsugandhe&show_icons=true&locale=en&theme=dark" alt="adarshsugandhe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsugandhe&theme=dark" alt="adarshsugandhe" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsugandhe&theme=dark" alt="adarshsugandhe" /></p>
+</div>
