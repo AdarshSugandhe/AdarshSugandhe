@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
+  <a href="mailto:adarshsugandhe2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/adarsh-sugandhe">
     <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://adarsh-sugandhe.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:adarshsugandhe2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
