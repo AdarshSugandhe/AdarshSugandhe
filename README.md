@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sugandhe</h1>
 
 <p align="center">
-  <strong>Frontend Developer • Software Engineer • Builder</strong>
+  <strong>Full Stack Developer • Software Engineer • Builder</strong>
 </p>
 
 <p align="center">
